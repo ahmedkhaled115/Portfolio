@@ -58,11 +58,11 @@ You can also find me on the following platforms:
   </a>  
 
   <a href="https://khamsat.com/user/ahmed11560" target="_blank">
-    <img src="[https://www.logoai.com/uploads/output/2024/03/28/f7d17f560cf772778f2c8ff69c1ee4f7.jpg?t=1711565325](https://www.tizdeet.com/wp-content/uploads/2021/09/khamsat.png)" alt="Khamsat" width="120"/>
+    <img src="https://www.tizdeet.com/wp-content/uploads/2021/09/khamsat.png" alt="Khamsat" width="120"/>
   </a>  
 
   <a href="https://www.upwork.com/freelancers/~01015f3348d2532c01?viewMode=1" target="_blank">
-    <img src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3ab923167954107.64322d81327f0.jpg](https://www.citypng.com/public/uploads/preview/upwork-round-logo-icon-png-7017516949686332n4bo69bd8.png)" alt="Upwork" width="120"/>
+    <img src="https://www.citypng.com/public/uploads/preview/upwork-round-logo-icon-png-7017516949686332n4bo69bd8.png" alt="Upwork" width="120"/>
   </a>  
 </p>  
 
