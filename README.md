@@ -62,7 +62,7 @@ You can also find me on the following platforms:
   </a>  
 
   <a href="https://www.upwork.com/freelancers/~01015f3348d2532c01?viewMode=1" target="_blank">
-    <img src="https://www.liblogo.com/img-logo/up8714u4ac-upwork-logo-upwork-logo-png-transparent-amp-svg-vector-freebie-supply.png" alt="Upwork" width="120"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/15527/15527365.png" alt="Upwork" width="120"/>
   </a>  
 </p>  
 
