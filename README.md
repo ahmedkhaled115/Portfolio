@@ -1,21 +1,11 @@
 # 📊 Data Scraping Portfolio - Ahmed Khaled  
 
-This portfolio is a compilation of my **Data Scraping projects**, achievements, and skills as a freelancer.  
+This portfolio is a compilation of my **Web Scraping projects**, achievements, and skills as a freelancer.  
 It is updated on a regular basis.  
 
 - **Email**: [ahmedmtc11560@gmail.com](mailto:ahmedmtc11560@gmail.com)  
-- **LinkedIn**: [linkedin.com/ahmed-khaled-a41919248](https://www.linkedin.com/in/ahmed-khaled-a41919248/)  
-
----
-
-## 👋 About Me  
-Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with **3+ years of experience** and **800+ five-star reviews** from **1,500+ satisfied clients worldwide**.  
-
-I specialize in delivering **premium web scraping services** with:  
-✅ Fast turnaround times  
-✅ Competitive prices  
-✅ High accuracy & efficiency  
-✅ Custom-tailored solutions for every project  
+- **LinkedIn**: [linkedin.com/in/ahmed-khaled-a41919248](https://www.linkedin.com/in/ahmed-khaled-a41919248/)  
+- **Fiverr**: [fiverr.com/ahmedkhaled160](https://www.fiverr.com/ahmedkhaled160?public_mode=true)  
 
 ---
 
@@ -29,29 +19,26 @@ I specialize in delivering **premium web scraping services** with:
 
 ## 📂 Projects  
 
-### [Scrape Fragrantica Website](https://github.com/ahmedkhaled115/Fragrantica_Scraping)  
-<img align="left" width="250" height="150" src="https://th.bing.com/th/id/R.04b9f6cc67d3f4da2ecfc5686d8a8fb1?rik=vN%2bZhmtq8gLQmw&pid=ImgRaw&r=0">  
+<img align="left" width="250" height="150" src="https://th.bing.com/th/id/R.04b9f6cc67d3f4da2ecfc5686d8a8fb1?rik=vN%2bZhmtq8gLQmw&pid=ImgRaw&r=0"> **[Scrape Fragrantica Website](https://github.com/ahmedkhaled115/Fragrantica_Scraping)**  
 
 In this project, I scraped the **Fragrantica** website to extract detailed data about perfumes, brands, and parent companies.  
 Fragrantica is one of the largest fragrance communities online, where users share reviews and insights.  
 
 🔗 [Fragrantica Website](https://www.fragrantica.com/)  
 
----
+#
 
-### [Scrape Mastersintime Website](https://github.com/ahmedkhaled115/Mastersintime.com-scraping-watch)  
-<img align="left" width="250" height="150" src="https://media.hollandwatchgroup.com/hwg:staging_pub/media-formats/output/bes/tse/lle/rsb/ann/er/bestsellersbanner-19607-11-x.jpg">  
+<img align="left" width="250" height="150" src="https://media.hollandwatchgroup.com/hwg:staging_pub/media-formats/output/bes/tse/lle/rsb/ann/er/bestsellersbanner-19607-11-x.jpg"> **[Scrape MastersInTime Website](https://github.com/ahmedkhaled115/Mastersintime.com-scraping-watch)**  
 
 In this project, I scraped the **MastersInTime** website to extract detailed data about wristwatches, including specifications, features, and pricing. MastersInTime is a leading online platform that offers a wide range of watch brands and styles.  
 
-🔗 [Masterintime Website](https://www.mastersintime.com/)  
+🔗 [MastersInTime Website](https://www.mastersintime.com/)  
 
----
+#
 
-### [Scrape Zilow Website](https://github.com/ahmedkhaled115/Zillow-Agent-Scraping-for-USA-States)  
-<img align="left" width="250" height="150" src="https://tse1.mm.bing.net/th/id/OIP.ABHliBeNLMq-MaMeGUZA9wHaEK?rs=1&pid=ImgDetMain&o=7&rm=3">  
+<img align="left" width="250" height="150" src="https://tse1.mm.bing.net/th/id/OIP.ABHliBeNLMq-MaMeGUZA9wHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"> **[Scrape Zillow Agents (USA)](https://github.com/ahmedkhaled115/Zillow-Agent-Scraping-for-USA-States)**  
 
-In this project, I scraped **Zillow** to collect real estate agent profiles across all USA states, including contact details, sales performance, and property insights. Zillow is one of the largest online real estate marketplaces in the United States. 
+In this project, I scraped **Zillow.com** to collect real estate agent profiles across all USA states, including contact details, sales performance, and property insights. Zillow is one of the largest online real estate marketplaces in the United States.  
 
 🔗 [Zillow Website](https://www.zillow.com/professionals/real-estate-agent-reviews/)  
 
@@ -67,8 +54,6 @@ In this project, I scraped **Zillow** to collect real estate agent profiles acro
 ---
 
 ## 🌍 Freelancer Accounts  
-
-You can also find me on the following platforms:  
 
 <p align="left">
   <a href="https://www.fiverr.com/ahmedkhaled160?public_mode=true" target="_blank">
