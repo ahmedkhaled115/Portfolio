@@ -39,6 +39,24 @@ Fragrantica is one of the largest fragrance communities online, where users shar
 
 ---
 
+### [Scrape Mastersintime Website](https://github.com/ahmedkhaled115/Mastersintime.com-scraping-watch)  
+<img align="left" width="250" height="150" src="https://media.hollandwatchgroup.com/hwg:staging_pub/media-formats/output/bes/tse/lle/rsb/ann/er/bestsellersbanner-19607-11-x.jpg">  
+
+In this project, I scraped the **MastersInTime** website to extract detailed data about wristwatches, including specifications, features, and pricing. MastersInTime is a leading online platform that offers a wide range of watch brands and styles.  
+
+🔗 [Masterintime Website](https://www.mastersintime.com/)  
+
+---
+
+### [Scrape Zilow Website](https://github.com/ahmedkhaled115/Zillow-Agent-Scraping-for-USA-States)  
+<img align="left" width="250" height="150" src="https://tse1.mm.bing.net/th/id/OIP.ABHliBeNLMq-MaMeGUZA9wHaEK?rs=1&pid=ImgDetMain&o=7&rm=3">  
+
+In this project, I scraped **Zillow** to collect real estate agent profiles across all USA states, including contact details, sales performance, and property insights. Zillow is one of the largest online real estate marketplaces in the United States. 
+
+🔗 [Zillow Website](https://www.zillow.com/professionals/real-estate-agent-reviews/)  
+
+---
+
 ## 🛠 Core Competencies  
 
 - **Methodologies**: Web Scraping, Data Mining, Data Cleaning, Data Transformation, API Integration, Proxy & CAPTCHA Handling, Automation, Scalable Scraping Pipelines  
