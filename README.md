@@ -9,7 +9,7 @@ It is updated on a regular basis.
 ---
 
 ## 👋 About Me  
-Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with **3+ years of experience** and **800+ five-star reviews** from **1,000+ satisfied clients worldwide**.  
+Hello! I’m **Ahmed Khaled**, a **Full-Stack Web Scraping Expert** with **3+ years of experience** and **800+ five-star reviews** from **1,500+ satisfied clients worldwide**.  
 
 I specialize in delivering **premium web scraping services** with:  
 ✅ Fast turnaround times  
@@ -21,7 +21,7 @@ I specialize in delivering **premium web scraping services** with:
 
 ## 🏆 Achievements  
 - 800+ Five-Star Reviews ⭐⭐⭐⭐⭐  
-- 1,000+ Clients Served Globally 🌍  
+- 1,500+ Clients Served Globally 🌍  
 - 3+ Years of Professional Freelancing Experience  
 - Expertise in **large-scale web scraping & automation**  
 
